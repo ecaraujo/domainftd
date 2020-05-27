@@ -2,7 +2,7 @@
 <!-- Created by Digital Endeavors -->
 <!-- http://www.digitalendeavors.com -->
 <HEAD>
-  <TITLE>FreeWebTemplates.com Free Frame template1</TITLE>
+  <TITLE>FreeWebTemplates.com Free Frame template1 with google tag manager</TITLE>
   <META name="description" content="">
   <META name="keywords" content="">
   
@@ -26,6 +26,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </frameset>
 
 <BODY BGCOLOR="FFFFFF" TEXT="000000" LINK="blue" VLINK="purple" Marginwidth=0 marginheight=0 leftmargin=0 topmargin=0>
+<h1>Google tag manager</h1>
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W4FXC7P"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
